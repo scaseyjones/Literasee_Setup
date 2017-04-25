@@ -1,32 +1,20 @@
-# Guidance on how to contribute
+If you'd like to contribute to this module, please use the fork-and-pull
+model:
 
-> All contributions to this project will be released under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-> By submitting a pull request or filing a bug, issue, or feature request, you are
-> agreeing to comply with this waiver of copyright interest.
-> Details can be found in our [LICENSCE](LICENSE.md).
+1. Fork this repository to your personal account.
+2. Create a branch and make your changes.
+3. Test the changes locally/in your personal fork.
+4. Submit a pull request to open a discussion about your proposed changes.
+5. We'll talk about it and decide to merge or request additional changes.
 
+---
 
-There are two primary ways to help:
- - Using the issue tracker, and
- - Changing the code-base.
+This module is released under the CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+All contributions to this project will be released under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+By submitting a pull request or filing a bug, issue, or feature request, you are
+agreeing to comply with this waiver of copyright interest.
+Details can be found in our [LICENSCE](LICENSE.md).
 
-
-## Using the issue tracker
-
-Use the issue tracker to suggest feature requests, report bugs, and ask questions.
-This is also a great way to connect with the developers of the project as well
-as others who are interested in this solution.
-
-Use the issue tracker to find ways to contribute. Find a bug or a feature, mention in
-the issue that you will take on that effort, then follow the _Changing the code-base_
-guidance below.
-
-
-## Changing the code-base
-
-Generally speaking, you should fork this repository, make changes in your
-own fork, and then submit a pull-request. All new code should have associated unit
-tests that validate implemented features and the presence or lack of defects.
-Additionally, the code should follow any stylistic and architectural guidelines
-prescribed by the project. In the absence of such guidelines, mimic the styles
-and patterns in the existing code-base.
+The project is in the public domain within the United States, and
+copyright and related rights in the work worldwide are waived through
+the [CC0 1.0 Universal public domain dedication][CC0].
