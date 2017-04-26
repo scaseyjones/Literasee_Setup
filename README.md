@@ -20,7 +20,7 @@ Creating your own assessment literacy module using this format is easy.
 1. The `index.md` file contains the text (formatted with Markdown) that comprises your module.
 2. There are several ways to edit `index.md`:
     * GitHub allows for markdown editing directly from its site. Click on `index.md` and then click on the *pencil* icon in the upper right. You can now edit and preview the markdown in `index.md`
-    * There are several online markdown editors that integrate with GitHub. One of the best is [Dillinger](dillinger.io).  
+    * There are several online markdown editors that integrate with GitHub. One of the best is [Dillinger](dillinger.io).
 3. At any time, you can save your changes by scrolling to the bottom and clicking **Commit changes**. You can also add notes indicating what the changes are that you've made.
 
 
@@ -32,7 +32,7 @@ Creating your own assessment literacy module using this format is easy.
 ## Under the hood
 
 1. GitHub is providing us with a site to host our source code as well as a server to serve the content!
-2. Details on how this works are [here](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
+2. Details on how this works can be found [here](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3).
 
 
 ## Contributors
