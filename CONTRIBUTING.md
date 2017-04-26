@@ -1,5 +1,4 @@
-If you'd like to contribute to this module, please use the fork-and-pull
-model:
+## If you'd like to contribute to this module, please use the fork-and-pull model:
 
 1. Fork this repository to your personal account.
 2. Create a branch and make your changes.
@@ -9,12 +8,8 @@ model:
 
 ---
 
-This module is released under the CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+This module is released under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 All contributions to this project will be released under the [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 By submitting a pull request or filing a bug, issue, or feature request, you are
 agreeing to comply with this waiver of copyright interest.
 Details can be found in our [LICENSCE](LICENSE.md).
-
-The project is in the public domain within the United States, and
-copyright and related rights in the work worldwide are waived through
-the [CC0 1.0 Universal public domain dedication][CC0].
